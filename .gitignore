@@ -15,7 +15,7 @@ pids
 *.seed
 *.pid.lock
 
-# Directorio de las libs instrumentadas generadas or jscoverage/JSCover
+# Directorio de las libs instrumentadas generadas por jscoverage/JSCover
 lib-cov
 
 # Directorio de cobertura utilizado por herramientas como istanbul
