@@ -25,13 +25,13 @@ coverage
 # cobertura de prueba de Nyc
 .nyc_output
 
-# Almacenamiento intermedioGrunt (https://gruntjs.com/creating-plugins#storing-task-files)
+# Almacenamiento intermedio Grunt (https://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
 
-# Directorio de dependenciasBower (https://bower.io/)
+# Directorio de dependencias Bower (https://bower.io/)
 bower_components
 
-# Configuraciónnode-waf 
+# Configuración node-waf 
 .lock-wscript
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
@@ -41,7 +41,7 @@ build/Release
 node_modules/
 jspm_packages/
 
-# Archivos de declaraciónTypeScript v1
+# Archivos de declaración TypeScript v1
 typings/
 
 # cache TypeScript 
