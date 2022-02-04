@@ -20,7 +20,7 @@ export default class BottomTabNavigator extends Component {
 
               if (route.name === "Transacción") {
                 iconName = "book";
-              } else if (route.name === "Bucar") {
+              } else if (route.name === "Buscar") {
                 iconName = "search";
               }
 
